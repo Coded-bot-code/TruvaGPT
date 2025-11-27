@@ -51,7 +51,7 @@ featuring a full platform with:
 
 ## 🌐 Official Links
 - 🔗 **GitHub Repository:** [TruvaGPT](https://github.com/Coded-bot-code/TruvaGPT)  
-- 🌍 **Website (Coming Soon):** [https://truvagpt.vercel.app](https://truvagpt.vercel.app)  
+- 🌍 **Website (Coming Soon):** [https://truvagpt.devafeez.name.ng](https://truvagpt.devafeez.name.ng)  
 - 👤 **Creator:** [DevAfeez](https://github.com/Coded-bot-code)
 
 ---
